@@ -11,7 +11,8 @@ As seguintes ferramentas foram tilizadas na construção do projeto:
 
 ## Screenshot
 
-![print da listagem de linguagens de programação](https://user-images.githubusercontent.com/61122185/169067719-87bc41df-ffa9-4824-bb70-903474a361d4.png)
+![Print da tela de listagem de linguagens de programação](https://user-images.githubusercontent.com/61122185/169067719-87bc41df-ffa9-4824-bb70-903474a361d4.png)
+![Print da tela de detalhes da linguagem de programação](https://user-images.githubusercontent.com/61122185/169067989-a6b8c17a-1a9c-48e6-a796-c0ea5ed5e662.png)
 
 ## Como rodar a aplicação
 
