@@ -9,6 +9,10 @@ As seguintes ferramentas foram tilizadas na construção do projeto:
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react)
 ![StyledComponents](https://img.shields.io/badge/styled_components-0D1117?style=for-the-badge&logo=styledcomponents)
 
+## Screenshot
+
+![print da listagem de linguagens de programação](https://user-images.githubusercontent.com/61122185/169067719-87bc41df-ffa9-4824-bb70-903474a361d4.png)
+
 ## Como rodar a aplicação
 
 Para o download do projeto, siga as instruções abaixo:
